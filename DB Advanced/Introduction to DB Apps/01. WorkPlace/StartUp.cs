@@ -8,7 +8,7 @@ namespace _01._WorkPlace
     {
         static void Main()
         {
-            var connectionString = @"Server=DESKTOP-ODF3207\SQLEXPRESS;Database=MinionsDB;Integrated Security=True";
+            var connectionString = @"Server=secretNameOfDoom;Database=MinionsDB;Integrated Security=True";
             var connection = new SqlConnection(connectionString);
             var villans = new Dictionary<string, int>();
 

@@ -7,7 +7,7 @@ public class StartUp
     {
         SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder
         {
-            ["Data Source"] = @"DESKTOP-ODF3207\SQLEXPRESS", //Сменете точка с името на вашия SQL Server, ако не работи с нея.
+            ["Data Source"] = @"Tainaaa", //Сменете точка с името на вашия SQL Server, ако не работи с нея.
             ["Integrated Security"] = true
         };
 
