@@ -1,3 +1,0 @@
-You have a business - manufacturing cell phones. But you have no software developers, so you call some friends of yours and ask them to help you create a cell phone software. They have already agreed and you started working on the project. The project consists of one main model – a Smartphone. Each of your smartphones should have functionalities of calling other phones and browsing in the world wide web.
-These friends of yours though are very busy, so you decide to write the code on your own. Here is the mandatory assignment:
-You should have a model - Smartphone and two separate functionalities which your smartphone has - to call other phones and to browse in the world wide web. You should end up with one class and two interfaces.
